@@ -23,4 +23,9 @@ ___
 It is a **CONVERSATIONAL AI** which takes the  interview of a candidate. it is easiest and quick way to inform the candidates about their selection or the next steps in the Process.  
 ![jpg](https://github.com/i-am-rohit/RASA/blob/master/images/Screenshot%20from%202019-11-08%2012-44-27.png?raw=true)
 ***It's a hyphothtesis of How interview chatbot will work***
-__
+
+___
+
+i am uploading my file you can download from here (https://github.com/i-am-rohit/RASA/blob/master/interview.zip) for a view.
+
+**BEFORE DOWNLOADING THIS FILE MAKE AN VIRTUAL ENVIRONMENT(STRONGLY RECOMMEND) AND INSTALL **
