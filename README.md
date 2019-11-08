@@ -28,4 +28,7 @@ ___
 
 i am uploading my file you can download from here (https://github.com/i-am-rohit/RASA/blob/master/interview.zip) for a view.
 
-**BEFORE DOWNLOADING THIS FILE MAKE AN VIRTUAL ENVIRONMENT(STRONGLY RECOMMEND) AND INSTALL **
+**BEFORE DOWNLOADING THIS FILE MAKE AN VIRTUAL ENVIRONMENT(STRONGLY RECOMMEND) AND INSTALL REQUIREMENTS.txt(https://github.com/i-am-rohit/RASA/blob/master/requirements.txt) using PIP and from command "RASA X" You Can Overview How a INTERVIEW_CHATBOT Works**
+
+___
+**IF YOU ARE NEW IN RASA YOU CAN LEARN RASA PLATFORM FROM HERE :** (https://rasa.com/docs/rasa/user-guide/installation/)
